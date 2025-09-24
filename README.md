@@ -1,7 +1,7 @@
 # RS-ViTMamba
-We will soon upload the code and pretrained weights used in our experiments.
+Codes and pre-trained weights will be available soon.
 
-you can download our result
+You can download the results of the test datasets.
 - 🖼️ **Inference Result**:  
   [Download from Google Drive](https://drive.google.com/file/d/1QLembHjz0C5n7d3sHk-V41WPASKN7Zwi/view?usp=sharing)
 
